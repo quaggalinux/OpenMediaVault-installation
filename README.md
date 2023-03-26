@@ -32,7 +32,8 @@ net.ipv6.conf.lo.disable_ipv6=1
 
 保存后退出
 
-使设置生效
+使设置生效  
+
 \#sysctl -p
 
 为确保上面设置生效，最好是重启一次机器
